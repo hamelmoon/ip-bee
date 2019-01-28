@@ -1,10 +1,7 @@
 # ip-bee (Image Processing Like a Bee!)
 
 ## Description 
-On the fly Image resizing service based on sharp
-
-
-
+It's a prototype of on the fly(On-Demand) Image resizing service based on sharp.
 * https://github.com/lovell/sharp 
 * https://github.com/jcupitt/libvips
 
